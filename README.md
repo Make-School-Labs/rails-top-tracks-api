@@ -1,6 +1,6 @@
 # rails-top-tracks-api
 
-Today's deliverable is a link to your GitHub repository with at least one fully implemented `GET` and `POST` action in `app/controllers/top_tracks_controller.rb`.
+**Today's deliverable is a link to your GitHub repository with at least one fully implemented `GET` and `POST` action in `app/controllers/top_tracks_controller.rb`.**
 
 ## Getting Started: Step by Step
 
@@ -18,3 +18,8 @@ Today's deliverable is a link to your GitHub repository with at least one fully 
 ## Important Notes
 
 * You must run this locally and serve the website over port `3000` to ensure access to the Spotify Web API.
+
+## Additional Resources
+
+* [DigitalOcean: How To Use Array Methods in Ruby](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-ruby)
+* [rspotify Documentation](https://www.rubydoc.info/github/guilhermesad/rspotify/master)
