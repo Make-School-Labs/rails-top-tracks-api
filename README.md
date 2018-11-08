@@ -6,6 +6,7 @@ Today's deliverable is a link to your GitHub repository with at least one fully 
 
 1. Fork this GitHub Repo.
 1. Clone your new fork locally and navigate to it in your shell.
+1. Run `rails db:migrate` to apply initial migrations.
 1. Run `rails server` and navigate to the [http://localhost:3000/top_tracks][http://localhost:3000/top_tracks] page.
 1. Click the `Sign in with Spotify` button to authenticate with OAuth. 
 1. Open `app/controllers/top_tracks_controller.rb`. All changes should be made in this file!
